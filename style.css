@@ -21,7 +21,7 @@ a{
 
 .blurred-wrapper{
     height: 100vh;
-    background: url(GlassmorphismTrial/background.jpg) center/cover;
+    background: url(./background.jpg) center/cover;
     position: relative;
     z-index: 1;
     overflow: hidden;
